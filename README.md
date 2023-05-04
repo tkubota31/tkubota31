@@ -1,4 +1,4 @@
-💫 About Me:
+# 💫 About Me:
 🌱 I’m currently learning game development as a side hobby!<br><br>👨‍💻 All of my projects are available at https://tkubota31.github.io/taiohkubota/<br><br>💬 Ask me about HTML, CSS, JavaScript, React, React Native, Node.js, Python, Flask!<br><br>📫 How to reach me: kubotataioh@gmail.com<br><br>⚡ Fun fact: I am part of a dance crew who performs all over New England!
 
 
